@@ -1,0 +1,208 @@
+body {
+    margin: 10px;
+    padding: 0px;
+}
+
+#header {
+    width: 350%;
+    font-size: 111px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+#row {
+    margin: 10px;
+    background-color: aqua;
+}
+
+#date {
+    background-color: aquamarine;
+    text-align: start;
+}
+
+#pay {
+    text-align: end;
+}
+
+#link {
+    text-align: justify;
+}
+
+#div {
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    font-size: medium;
+    font-weight: bold;
+    height: 108px;
+    text-align: top;
+}
+
+#new {
+    margin: 0px;
+}
+
+#img {
+    padding: 10px;
+}
+
+#noborder-1 {
+    border: 0px;
+    text-align: justify;
+}
+
+#noborder {
+    border: 0px;
+    text-align: justify;
+}
+
+#sidecard {
+    width: 180px;
+    height: 180px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#mainbar {
+    width: 600px;
+    height: 150px;
+    padding-top: 10px;
+    /* border: 1px solid black; */
+    margin-right: 20px;
+}
+
+.maincol {
+    width: 400px;
+    height: auto;
+}
+
+.maincol-3 img {
+    width: 100%;
+}
+
+#vertical {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    text-orientation: sideways-right;
+    text-align: justify;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    background-color: lightcyan;
+}
+
+.sidebar-img img {
+    width: 100%;
+    padding: 2px;
+    height: 80px;
+}
+
+.side-img img {
+    width: 100%;
+}
+
+#headline {
+    width: 100%;
+    font-weight: bolder;
+    font-size: 85px;
+}
+
+.colname1 {
+    width: 50%;
+    height: 180px;
+    border: 1px solid black;
+}
+
+#lastimage {
+    width: 100%;
+}
+
+
+/* .line {
+    border: 1px solid black;
+} */
+
+.trumpimage img {
+    width: 320%;
+}
+
+#subline {
+    font-size: 37px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+}
+
+.line {
+    text-align: justify;
+}
+
+.arrange {
+    text-align: justify;
+}
+
+#long {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#visa {
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.card {
+    background-color: antiquewhite;
+}
+
+#tojustify {
+    text-align: justify;
+}
+
+#toalignjustiy {
+    text-align: justify;
+}
+
+#headjustify {
+    text-align: justify;
+}
+
+#headjustify2 {
+    text-align: justify;
+}
+
+.leftimage img {
+    width: 150%;
+}
+
+.summa {
+    width: 100%;
+    border: 1px solid black;
+}
+
+#stimage {
+    width: 10%;
+    height: 4px;
+}
+
+#number15 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.six {
+    font-weight: bold;
+    background-color: darkgray;
+    text-align: justify;
+    width: 100%;
+}
+
+.number15 {
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    background-color: antiquewhite;
+}
